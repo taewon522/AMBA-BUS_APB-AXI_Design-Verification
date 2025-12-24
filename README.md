@@ -1,1 +1,1 @@
-# AMBA-BUS_APB-AXI_Design-Verification
+# AMBA-BUS(APB / AXI) Design & Verification
